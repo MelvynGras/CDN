@@ -1,5 +1,5 @@
-# CDN Router
-A CDN routing system based on Geo-IP by DNS
+# CDN router
+A nameserver that routes DNS request according to the client geolocation to serve with the nearest server.
 
 ## Setup
 Create the locations database :
