@@ -1,5 +1,6 @@
 # CDN router
-A nameserver that routes DNS request according to the client geolocation to serve with the nearest server.
+A nameserver that routes DNS request according to the client geolocation to serve with the nearest server.  
+See the tutorial article about it : [Medium Page](https://medium.com/@melvyngras/how-to-build-your-own-cdn-in-node-js-463190527ead)
 
 ## Setup
 Create the locations database :
